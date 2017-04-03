@@ -1,0 +1,26 @@
+{
+  "name": "konnektrtf",
+  "version": "0.0.2",
+  "description": "Routes konnektjs components based on url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keleko34/KonnektRTF.git"
+  },
+  "keywords": [
+    "hash",
+    "routing"
+  ],
+  "author": "keleko34",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keleko34/KonnektRTF/issues"
+  },
+  "homepage": "https://github.com/keleko34/KonnektRTF#readme",
+  "devDependencies": {
+    "K_Tasks": "^0.7.9"
+  }
+}
