@@ -10,6 +10,7 @@ define([],function(){
 
       document.body.innerHTML = "<"+name+"></"+name+">";
       _onChange(name);
+      return KonnektRTF;
     }
 
     KonnektRTF.base = function(v)
@@ -38,6 +39,7 @@ define([],function(){
       {
         window.onhashchange = null;
       }
+      return KonnektRTF;
     }
 
     return KonnektRTF;
