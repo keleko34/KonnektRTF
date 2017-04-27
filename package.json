@@ -1,6 +1,6 @@
 {
   "name": "konnektrtf",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Routes konnektjs components based on url",
   "main": "index.js",
   "scripts": {
